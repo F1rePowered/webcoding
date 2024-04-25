@@ -1,1 +1,1 @@
-Github repo for a uni HTML project.
+Github repo for a uni HTML/CSS project.
